@@ -1,2 +1,2 @@
-# Watershed-DL
-Watershed-DL is a Nextflow-based library for prioritizing rare variants using multi-omic outliers and sequence-to-omic annotations.
+# Watershed-DL: An integrative model of sequence-to-omics and personal multi-omics
+Coming soon!
