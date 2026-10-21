@@ -1,2 +1,17 @@
-# Watershed-DL: An integrative model of sequence-to-omics and personal multi-omics
+# Watershed-DL: Integrating sequence-to-omics predictions and personal multi-omics for rare variant prioritization
+This repository will host the code associated with Watershed-DL, a framework that extends Watershed to integrate sequence-to-omics (S2O) predictions of variant effects with personal multi-omic outliers. Watershed-DL is designed to be extensible: new S2O predictors can be incorporated as variant annotations, and additional molecular outliers can be modeled at the gene or peak level. We integrated Watershed-DL with multiple S2O predictions to prioritize rare variants underlying molecular outliers in gene expression, splicing, allele-specific expression. We applied Watershed-DL to a population cohort (1000 Genomes Project) and a rare disease cohort (GREGoR Consortium) to identify functional rare variants.
+
+
+<img width="2000" height="1000" alt="GitHub (1)" src="https://github.com/user-attachments/assets/edfd0508-8ad4-4cab-9b65-ecf08af155c6" />
+
+## Data availability
+
+Preprint coming soon!
+
+Watershed-DL posteriors for the 1000 Genomes Project and GREGoR samples are being made available on Zenodo (DOI: 10.5281/zenodo.23426012).
+
+## Usage
 Coming soon!
+
+## Acknowledgments
+We thank the participants and families of the GREGoR Consortium and the 1000 Genomes Project for their contributions to this research. J.L. and T.M.A. were supported by the National Science Foundation Graduate Research Fellowship Program under Grant No. DGE-2146755. V.R. was supported by the National Human Genome Research Institute of the National Institutes of Health under training grant T32HG000044. The GREGoR Consortium is funded by the National Human Genome Research Institute of the National Institutes of Health, through the following grants: U01HG011744, U01HG011745, U01HG011755, U01HG011758, U01HG011762, and U24HG011746. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. Computing for this project was performed on the Stanford SCG Bioinformatics Cluster (RRID:SCR_026876), owned by the Stanford Genomics Bioinformatics Service Center (RRID:SCR_023340) and operated by Stanford Research Computing (RRID:SCR_023413).
