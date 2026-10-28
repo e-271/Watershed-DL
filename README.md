@@ -1,7 +1,7 @@
 # Watershed-DL: Integrating sequence-to-omics predictions and personal multi-omics for rare variant prioritization
 This repository will host the code associated with **Watershed-DL**, a framework that extends [Watershed](https://github.com/BennyStrobes/Watershed) to integrate sequence-to-omics (S2O) predictions of variant effects with personal multi-omic outliers. Watershed-DL is designed to be extensible: new S2O predictions can be incorporated as variant annotations, and additional molecular outliers can be modeled at the gene or peak level. We integrated Watershed-DL with regulatory and protein pathogenicity S2O predictions to prioritize rare variants underlying molecular outliers in gene expression, splicing, allele-specific expression, and chromtain accessibility. We applied Watershed-DL to a population cohort ([1000 Genomes Project](https://www.internationalgenome.org/)) and a rare disease cohort ([GREGoR Consortium](https://gregorconsortium.org/)) to identify functional rare variants.
 
-<img width="1500" height="750" alt="GitHub (1)" src="https://github.com/user-attachments/assets/edfd0508-8ad4-4cab-9b65-ecf08af155c6" />
+<img width="1500" height="750" alt="GitHub_watershed-DL" src="https://github.com/user-attachments/assets/0fd17dfc-0550-4e87-b8c0-45b2cc6bf3ef" />
 
 ## Data availability
 
